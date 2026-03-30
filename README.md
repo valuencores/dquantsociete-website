@@ -1,2 +1,2 @@
 # dquantsociete-website
-www.valuencores.com website
+www.dquantsociete.com website
